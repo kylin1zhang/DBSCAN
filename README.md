@@ -1,2 +1,2 @@
-# DBSCASN
+# DBSCAN
 To test DBSCAN
